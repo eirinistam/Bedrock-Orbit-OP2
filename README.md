@@ -1,4 +1,4 @@
-# Agents for Amazon Bedrock Test UI
+# Agents for Amazon Bedrock UI
 
 The use case  will demonstrate is a chatbot, with which we can talk with the Orbit OP2 documents for 2024 and also we can add on a table more OP2 projects.
 
